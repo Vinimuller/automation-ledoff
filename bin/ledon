@@ -1,0 +1,2 @@
+#!/bin/zsh
+/usr/bin/curl -sS "http://192.168.15.178/win&A=255"
